@@ -60,7 +60,7 @@ Console-Finances is under MIT License.
 
 ## Deployment
  <ul>
-    <li>Website: https://cedagbo.github.io/</li>
+    <li>Website: https://cedagbo.github.io/Finances//</li>
     <li>Repository: https://github.com/cedagbo/Console-Finances </li>
  </ul>
 
